@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I'm currently studying in the penultimate semester of my MSc. studies.
 <!--
 **psyklopp/psyklopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
