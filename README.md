@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently studying in the penultimate semester of my MSc. studies.
+- ⚡ Fun fact: I like Psytrance genre and I like to mix such music on my little DDJ200 console
 <!--
 **psyklopp/psyklopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
