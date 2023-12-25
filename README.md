@@ -5,8 +5,9 @@
 - 💻 Here is my [TryHackMe](https://tryhackme.com/p/psyklopp) profile
 - 💡 I want to write blog posts and articles on various topics in cybersecurity on my website [Dezible](https://dezible.com/) - which I will do after my current semester is over
 
-## Currently
-- 📌 Currently doing the Advent of Cyber on 2023 on TryHackMe
+## Currently 📌
+-  ~~Currently doing the Advent of Cyber on 2023 on TryHackMe~~
+-  THM Advent of Cyber '23 ☑️ completed  
 <!--
 **psyklopp/psyklopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
