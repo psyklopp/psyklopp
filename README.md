@@ -7,6 +7,7 @@
 
 ## Currently 📌
 -  ~~Currently doing the Advent of Cyber on 2023 on TryHackMe~~
+-  Working on my thesis ✍️ In progress
 -  [THM Advent of Cyber '23](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IHOHFGHFQS.png) ☑️ completed
 -  Start learning Splunk + setup homelab
 -  Make a list of [free resources for hacking](https://github.com/psyklopp/Learn-to-Hack) ✍️ In progress
