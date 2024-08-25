@@ -7,12 +7,12 @@
 
 ## Currently 📌
 -  ~~Currently doing the Advent of Cyber on 2023 on TryHackMe~~
--  Working on my thesis ✍️ In progress
+-  Working on my thesis ~~In progress~~ ☑️ completed
 -  [THM Advent of Cyber '23](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IHOHFGHFQS.png) ☑️ completed
--  Start learning Splunk + setup homelab
+-  Start learning through SOC Analyst training - Splunk + setup homelab ✍️ In progress
 -  Make a list of [free resources for hacking](https://github.com/psyklopp/Learn-to-Hack) ✍️ In progress
--  Study for Linux Administration/DevOps
-  -- Complete Linux 101 course on TCM ✍️ In progress
+-  Study for Linux Administration/DevOps 
+   -- Complete Linux 101 course on TCM 📆 Planned
 <!--
 **psyklopp/psyklopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
