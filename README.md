@@ -19,6 +19,10 @@
 -  ~~Currently doing the Advent of Cyber on 2023 on TryHackMe~~ ☑️ completed
 -  Working on my thesis ~~In progress~~ ☑️ completed
 -  ~~[THM Advent of Cyber '23]~~(https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IHOHFGHFQS.png) ☑️ completed
+
+## Connect with me
+
+LinkedIn: [Aditya Bhardwaj](https://www.linkedin.com/in/ab4dev/)
 <!--
 **psyklopp/psyklopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
