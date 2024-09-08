@@ -7,9 +7,9 @@
 ## Currently 📌
 
 -  Writing on [Dezible](https://dezible.com/). 🧮 Focusing
+-  Start learning through SOC Analyst training - Splunk + setup homelab 🧮 Focusing
 -  Learning ```Rust``` programming language. 🧮 Focusing
 -  Contributing to open-source [Rust by Example](https://github.com/rust-lang/rust-by-example) repository. 🧮 Focusing
--  Start learning through SOC Analyst training - Splunk + setup homelab 📆 Planned
 -  Make a list of [free resources for hacking](https://github.com/psyklopp/Learn-to-Hack) ✍️ In progress
 -  Study for Linux Administration/DevOps 
    -- Complete Linux 101 course on TCM 📆 Planned
