@@ -4,6 +4,15 @@
 - 💡 Currently working on my project [Dezible](https://dezible.com/) - where I will create reports and insights on academic research in cybersecurity.
 - ⚡ Fun fact: I like Psytrance genre and I like to mix such music on my little DDJ200 console
 
+## Articles 📚
+
+I write on LinkedIn. I am currently researching on phishing techniques and attacks.
+- Writing a mini-series titled 'Phishing 101'
+
+  Part 1: [*Hacker's guide to Practical Phishing - Part 1*](https://www.linkedin.com/pulse/hackers-guide-practical-phishing-part-1-aditya-bhardwaj-sa3sf/) 🗒️ working on Part 2 at the moment.
+- Tracking pixel in Emails: [*Demonstration/Lab*](https://www.linkedin.com/feed/update/urn:li:activity:7239690029671821313/)
+- LinkedIn and Privacy - 🏁 *Planned*
+
 ## Currently 📌
 
 -  Writing on [Dezible](https://dezible.com/). 🧮 Focusing
