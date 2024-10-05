@@ -14,6 +14,7 @@ I write on LinkedIn. I am currently researching on phishing techniques and attac
   Part 2: [*Hacker's guide to Practical Phishing - Part 2*](https://www.linkedin.com/pulse/hackers-guide-practical-phishing-part-2-aditya-bhardwaj-pevlf/)
 - Tracking pixel in Emails: [*Demonstration/Lab*](https://www.linkedin.com/feed/update/urn:li:activity:7239690029671821313/)
 - LinkedIn and Privacy - 🏁 *Planned*
+- Creating your own VPN from scratch - 🏁 *Planned*
 
 ## Currently 📌
 
