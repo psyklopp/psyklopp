@@ -15,6 +15,7 @@ I write on LinkedIn. I am currently researching on phishing techniques and attac
 - Tracking pixel in Emails: [*Demonstration/Lab*](https://www.linkedin.com/feed/update/urn:li:activity:7239690029671821313/)
 - LinkedIn and Privacy - 🏁 *Planned*
 - Creating your own VPN from scratch - 🏁 *Planned*
+- EU Chat Control - 🏁 *Planned*
 
 ## Currently 📌
 
