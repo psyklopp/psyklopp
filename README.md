@@ -16,6 +16,8 @@ I write on LinkedIn. I am currently researching on phishing techniques and attac
 - LinkedIn and Privacy - 🏁 *Planned*
 - Creating your own VPN from scratch - 🏁 *Planned*
 - EU Chat Control - 🏁 *Planned*
+- Handle contact forms for static sites using AWS ✈️ (Personal requirement)
+
 
 ## Currently 📌
 
