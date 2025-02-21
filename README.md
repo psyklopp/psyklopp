@@ -16,14 +16,11 @@ I write on LinkedIn. I am currently researching on phishing techniques and attac
 - LinkedIn and Privacy - 🏁 *Planned*
 - Creating your own VPN from scratch - 🏁 *Planned*
 - EU Chat Control - 🏁 *Planned*
-- Handle contact forms for static sites using AWS ✈️ (Personal requirement)
 
 
 ## Currently 📌
 
--  Writing on [Dezible](https://dezible.com/). 🧮 Focusing
--  Start learning through SOC Analyst training - Splunk + setup homelab 🧮 Focusing
--  Learning ```Rust``` programming language. 🧮 Focusing
+-  Writing on [Dezible](https://dezible.com/) about XAI. 🧮 Focusing
 -  Contributing to open-source [Rust by Example](https://github.com/rust-lang/rust-by-example) repository. ✍️ In progress
 -  Make a list of [free resources for hacking](https://github.com/psyklopp/Learn-to-Hack) ✍️ In progress
 -  Study for Linux Administration/DevOps 
