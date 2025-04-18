@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I have recently graduated from ELTE with a Master degree in Computer Science with Cybersecurity as specialization.
-- 💡 Currently working on my project [Dezible](https://dezible.com/) - where I will create reports and insights on academic research in cybersecurity.
-- ⚡ Fun fact: I like Psytrance genre and I like to mix such music on my little DDJ200 console
+- 🔭 I am currently a Ph.D candidate at University of Twente in the [Semantics, Cybersecurity and Services - SCS group](https://www.utwente.nl/en/eemcs/scs/) under the supervision of[ Dr. Thijs van Ede](https://vm-thijs.ewi.utwente.nl/) and [Dr. Andrea Continella](https://conand.me/) 
+- 💡 Interested in: Graphs, Intrusion Detection Systems
+- ⚡ Fun fact: I like Psytrance genre and I like to mix such music on my ~~little DDJ200~~ DDJFLX4 console
 
 ## Articles 📚
 
