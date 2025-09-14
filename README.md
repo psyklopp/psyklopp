@@ -4,37 +4,17 @@
 - 💡 Interested in: Graphs, Intrusion Detection Systems
 - ⚡ Fun fact: I like Psytrance genre and I like to mix such music on my ~~little DDJ200~~ DDJFLX4 console
 
-## Articles 📚
+## Some of my work 📚
 
-I write on LinkedIn. I am currently researching on phishing techniques and attacks.
-- Writing a mini-series titled 'Phishing 101'
+- 1️⃣ [*Hacker's guide to Practical Phishing - Part 1*](https://www.linkedin.com/pulse/hackers-guide-practical-phishing-part-1-aditya-bhardwaj-sa3sf/)
+- 2️⃣ [*Hacker's guide to Practical Phishing - Part 2*](https://www.linkedin.com/pulse/hackers-guide-practical-phishing-part-2-aditya-bhardwaj-pevlf/)
+- 📧 Tracking pixel in Emails: [*Demonstration/Lab*](https://www.linkedin.com/feed/update/urn:li:activity:7239690029671821313/)
+- 📙 Thesis @arXiv: [A Gentle Introduction to Blind signatures: From RSA to Lattice-based Cryptography](https://arxiv.org/abs/2509.02189)
 
-  Part 1: [*Hacker's guide to Practical Phishing - Part 1*](https://www.linkedin.com/pulse/hackers-guide-practical-phishing-part-1-aditya-bhardwaj-sa3sf/)
-  
-  Part 2: [*Hacker's guide to Practical Phishing - Part 2*](https://www.linkedin.com/pulse/hackers-guide-practical-phishing-part-2-aditya-bhardwaj-pevlf/)
-- Tracking pixel in Emails: [*Demonstration/Lab*](https://www.linkedin.com/feed/update/urn:li:activity:7239690029671821313/)
-- LinkedIn and Privacy - 🏁 *Planned*
-- Creating your own VPN from scratch - 🏁 *Planned*
-- EU Chat Control - 🏁 *Planned*
+## Connect with me 💬
 
-
-## Currently 📌
-
--  Writing on [Dezible](https://dezible.com/) about XAI. 🧮 Focusing
--  Contributing to open-source [Rust by Example](https://github.com/rust-lang/rust-by-example) repository. ✍️ In progress
--  Make a list of [free resources for hacking](https://github.com/psyklopp/Learn-to-Hack) ✍️ In progress
--  Study for Linux Administration/DevOps 
-   -- Complete Linux 101 course on TCM 📆 Planned
-
-## Completed 🥅
-
--  ~~Currently doing the Advent of Cyber on 2023 on TryHackMe~~ ☑️ completed
--  ~~Working on my thesis~~ ☑️ completed
--  ~~[THM Advent of Cyber '23]~~(https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IHOHFGHFQS.png) ☑️ completed
-
-## Connect with me
-
-LinkedIn: [Aditya Bhardwaj](https://www.linkedin.com/in/ab4dev/)
+- 🥇 LinkedIn: [Aditya Bhardwaj](https://www.linkedin.com/in/ab4dev/)
+- 🥈 Google scholar: [https://scholar.google.com/citations?user=GnGK9eIAAAAJ&hl=en](https://scholar.google.com/citations?user=GnGK9eIAAAAJ&hl=en)
 <!--
 **psyklopp/psyklopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
